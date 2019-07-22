@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Textos"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
   - title: "Podcasts"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+     url: "https://mmistakes.github.io/minimal-mistakes/about/"
   - title: "Assinantes"
-     url: /year-archive/
+     url: "https://mmistakes.github.io/minimal-mistakes/about/"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
